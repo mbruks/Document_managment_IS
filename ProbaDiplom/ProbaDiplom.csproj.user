@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\User\source\repos\ProbaDiplom\ProbaDiplom\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="CategoryWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FlowerWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LossesWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OborotWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderReceipt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OtherWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PackegWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PostcardsWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReferencesWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SaldWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrderWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProductWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PurchaseWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RegistrationWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StaffWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SuppliersWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
